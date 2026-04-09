@@ -20,6 +20,8 @@
 // @connect      kitchen.cqree.jp
 // @run-at       document-idle
 // @noframes
+// @updateURL    https://masami0730-debug.github.io/lackt-hub-dist/LacKT-Order-Hub-for-LMS-v4.0.user.js
+// @downloadURL  https://masami0730-debug.github.io/lackt-hub-dist/LacKT-Order-Hub-for-LMS-v4.0.user.js
 // ==/UserScript==
 
 (function () {
